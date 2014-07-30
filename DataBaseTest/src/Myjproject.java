@@ -4,6 +4,7 @@ import java.sql.*;
 public class Myjproject {
  public static void main(String args[])
  {
+	 System.out.println("Testone");
      try {
           Class.forName("com.mysql.jdbc.Driver");     //¼ÓÔØMYSQL JDBCÇý¶¯³ÌÐò   
           //Class.forName("org.gjt.mm.mysql.Driver");
